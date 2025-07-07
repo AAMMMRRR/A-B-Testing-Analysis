@@ -1,6 +1,4 @@
-<div style="text-align: center;">
-# A/B Testing Analysis: Landing Page Conversion Rates
-</div>
+<h1 align="center">A/B Testing Analysis: Landing Page Conversion Rates</h1>
 
 ## Overview
 
